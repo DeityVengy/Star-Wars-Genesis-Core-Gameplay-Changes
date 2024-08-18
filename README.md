@@ -6,7 +6,7 @@
 While also addressing the loopholes in the vanilla Starfield story, the Star Wars Genesis Main Story Conversion features many additional aspects beyond a rewrite.
 - Additional mid-story Boss with Dark Souls mechanics
 - Additional dialogue variety beyond vanilla Starfield
-- Supporting lore and timeline over at https://github.com/DeityVengy/Star-Wars-Genesis-Timeline
+- Supporting lore and timeline over at the [Star Wars Genesis Timeline](https://github.com/DeityVengy/Star-Wars-Genesis-Timeline) page (spoiler warning)
 
 ## Realistic Combat and Balancing
 To avoid the poorly balanced mess of vanilla Starfield and its bullet sponge enemies, Star Wars Genesis features a custom balanced unleveled game world with an emphasis on realistic and grounded combat.
