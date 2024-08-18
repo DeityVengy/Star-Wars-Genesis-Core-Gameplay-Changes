@@ -25,6 +25,6 @@ Vanilla Starfield has many armors that are called different things but use the e
 
 
 ## Points of Interest
-
+Starfield's POIs are one of the most controversial aspects of the game. Star Wars Genesis addresses it with countless revamps.
 
 ## Economy
