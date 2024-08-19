@@ -3,7 +3,7 @@
 #### While striving to be a Total Conversion, Star Wars Genesis also fixes, improves, and builds upon many vanilla aspects of the game. This serves as an overview of all those changes as well a deterrent for those referring to Star Wars Genesis as simply a reskin of vanilla Starfield.
 
 ## Main Story and other Quests
-While also addressing the loopholes in the vanilla Starfield story by completely rewriting it, Star Wars Genesis features many additional aspects beyond a rewrite.
+While also addressing the loopholes in the vanilla Starfield story by completely rewriting it, Star Wars Genesis features many additional aspects beyond that.
 - Additional Main Story Boss with Dark Souls mechanics
 - Additional dialogue variety beyond vanilla Starfield
 - Alternate Choices in Key Quests (side against Paradiso, rob all the money in Kryx mission, etc)
