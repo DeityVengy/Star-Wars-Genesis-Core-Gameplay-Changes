@@ -1,4 +1,4 @@
-# Star Wars Genesis Core Gameplay Changes
+# Star Wars Genesis - Core Gameplay Changes
 
 #### While striving to be a Total Conversion, Star Wars Genesis also fixes, improves, and builds upon many vanilla aspects of the game. This serves as an overview of all those changes as well a deterrent for those referring to Star Wars Genesis as simply a reskin of vanilla Starfield.
 
