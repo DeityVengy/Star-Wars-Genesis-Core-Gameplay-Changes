@@ -50,6 +50,7 @@ To avoid the Bethesda game stereotype where one can become unfathomably rich wit
 - Selling prices of countless items have been reduced
 - Prices of unique armor and weapons has been greatly increased
 - The monetary rewards for missions and other tasks has been greatly increased
+- Reduced Ship Registration Cost to reward ship theft
 
 ## Textures and Visuals
 Due to the obvious VRAM and computing power limitations that consoles have, Starfield has very poor textures for a Triple A modern game release in 2023. There are also many questionable design choices regarding Visuals they have taken. These have both been addressed.
@@ -96,3 +97,4 @@ Fixing the mess of Creation Engine 2
 
 ## Misc
 - Linked Companion Spacesuits (if you wear helmet/spacesuit, they do too)
+- Neon Entertainer Logic Fixes
