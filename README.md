@@ -29,6 +29,7 @@ Vanilla Starfield has many armors that are called different things but use the e
 Starfield's POIs are one of the most controversial aspects of the game. Star Wars Genesis addresses it with countless revamps.
 - Temple Ruins have been scattered around and the Galaxy and handplaced in specific locations, offering unique abilities and permanent status effects, such as reviving the dead, disarming enemies, increased endurance, etc.
 - Kyber Crystals have a random chance to spawn on every planet, rewarding a skill point for every 3 collected.
+- Rare Credit Chests have been scattered at the end of POIs that can only be opened with a Credit Transfer Module 
 - Each unique POI has a cooldown when encountered. This makes it impossible to see the same POI within hours of playing
 - POI density has been greatly increased on populated planets and remained the same in desolate planets.
 - 20 additional POIs have been modded into the existing POI Pool
